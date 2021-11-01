@@ -4,15 +4,17 @@ This is the submission for the Olympic Datathon, by the team consisting of Ammar
 See the uploaded file for the submission.
 
 README Contents
+---------------
 
 1. Brieft overview of the Notebook
 2. More detailed overview of the Notebook
-3. Explanation of Niave Bayes
+3. Explanation of Naive Bayes
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Brief Overview of what's done in the Notebook
+---------------------------------------------
 
 We start by inspecting the dataset, the data types, and summary statistics for each attribute
 
@@ -28,6 +30,7 @@ We also visualize athlete Hieght, Weight and Age distributions with histograms.
 
 
 Roadmap of the Notebook (More detailed overview)
+------------------------------------------------
 
 We begin by inspecting the first section of the dataset, the columns and their data types, and basic descriptive aspects of each column (unique values, number of values in each column etc).
 
@@ -58,6 +61,7 @@ We then return to calculating the conditional probabilties required for Naive Ba
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Explanation of Naive Bayes
+----------------------------
 
 This post has a good explanation of Naive Bayes; 
 https://stats.stackexchange.com/questions/21822/understanding-naive-bayes
